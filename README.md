@@ -1,5 +1,5 @@
 <h1>About Me</h1>
-👋 Hi there, I’m Kevin, Software Developer mainly involved in Front- End Web Development. Designed and developed various companies websites, landing pages and systems to meet business requirements, needs and goals.
+Software Developer mainly involved in Front- End Web Development. Designed and developed various companies websites, landing pages and systems to meet business requirements, needs and goals.
 
 <h1>Tools & Technologies</h1>
 <div style="display: flex;">
