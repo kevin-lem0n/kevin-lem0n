@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer mainly involved in enterprise web development.
+Software Developer mainly involved in enterprise web development. Developed company pages in Angular and React.
 
 
 # 💻 Tech Bites:
